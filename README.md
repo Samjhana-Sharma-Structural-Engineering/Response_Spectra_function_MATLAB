@@ -8,8 +8,13 @@ o	**Main_code.m**:  It analyzes earthquake ground motion data obtained from the 
 
 o	**Function_code.m**:  It computes the response (displacement and velocity) of a structure subjected to earthquake ground motion using the Newmark-beta method.
 
+
 The Newmark-beta method is a numerical integration technique commonly used in structural dynamics to solve the equations of motion for dynamic systems subjected to external loads. It is an implicit method that provides accurate solutions for both linear and nonlinear structural systems.
+
+
 •	The Data folder contains the acceleration records of Elcentro earthquake.
+
+
 •	The Figure folder contains the output of MATLAB codes.
 
 
