@@ -11,7 +11,7 @@ The Newmark-beta method is a numerical integration technique commonly used in st
 Example:
 Following three figures below are obtained by running the MATLAB code. The code read the data in the Data folder and computes the acceleration, velocity and displacement response spectra for different value of damping ratio
 
-![Response Spectrum for Spectral Velocity]
+![Response Spectrum for Spectral Velocity](https://github.com/Samjhana-Sharma-Structural-Engineering/Response_Spectra_function_MATLAB/assets/158802977/e85693c7-6c06-46a8-83cd-bc906fc87c5e)
 
 ![Response Spectrum for Spectral Displacement](https://github.com/Samjhana-Sharma-Structural-Engineering/Response_Spectra_function_MATLAB/assets/158802977/50882657-ade1-4dd8-9df4-5d376222d11a)
 
