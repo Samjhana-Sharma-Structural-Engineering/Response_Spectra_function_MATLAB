@@ -1,6 +1,6 @@
 # Response_Spectra_function_MATLAB
 **Description:**
-•	The Repository contains:
+•	The** Repository **contains:
 o	**Main_code.m**:  It analyzes earthquake ground motion data obtained from the EI Centro dataset. It computes and plots the response spectrum for spectral displacement, velocity and acceleration for different damping ratios.
 o	**Function_code.m**:  It computes the response (displacement and velocity) of a structure subjected to earthquake ground motion using the Newmark-beta method.
 
