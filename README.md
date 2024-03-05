@@ -8,6 +8,7 @@ The Newmark-beta method is a numerical integration technique commonly used in st
 •	The Data folder contains the acceleration records of Elcentro earthquake.
 •	The Figure folder contains the output of MATLAB codes.
 
+
 Example:
 Following three figures below are obtained by running the MATLAB code. The code read the data in the Data folder and computes the acceleration, velocity and displacement response spectra for different value of damping ratio
 
